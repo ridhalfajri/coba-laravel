@@ -13,7 +13,8 @@ class AboutController extends Controller
         "email" => "ridhalyz@apps.ipb.ac.id",
         "picture" => "foto.jpg",
         "occupation" => "mahasiswa",
-        "address" => "Bogor"
+        "address" => "Bogor",
+        "birthday" => "2000-11-21"
     ]);
 }
 }
